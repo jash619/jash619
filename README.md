@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @jash619
+![ESTRUCTURA SQL](https://github.com/user-attachments/assets/93c89d48-b7f3-44d1-908a-68191a3d9241)
 
 
 <!---
