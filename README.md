@@ -1,4 +1,13 @@
-- 👋 Hi, I’m @jash619
+💫 Acerca de mí
+------------------------------------------------------------
+
+📚 Estudios
+------------------------------------------------------------
+ 📑 Tecnologo en Analisis Y Desarrollo de sistemas de informacion SENA (C.A.S.A.)
+ 📑 Especializacion Tecnologia Gestion y Seguridad en Base de Datos SENA.
+ 	   
+	Virtuales
+ 
 
 
 
