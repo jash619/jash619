@@ -5,7 +5,8 @@
 ------------------------------------------------------------
          📑 Tecnologo en Analisis Y Desarrollo de sistemas de informacion SENA (C.A.S.A.)	
          📑 Especializacion Tecnologia Gestion y Seguridad en Base de Datos SENA.
- Virtuales
+ 💻 Virtuales
+ -----------------------------------------------------------
  
 		💻 Adobe Ilustrator CSC6
 		💻 PROCESOS DE SOPORTE TECNICO PARA EL MANTENIMIENTO DE EQUIPOS DE COMPUTO
